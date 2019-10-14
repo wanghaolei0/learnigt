@@ -1,2 +1,2 @@
 The meat is very cheap!
-I hope you can join us!
+Creating a new branch is quick & simple.
